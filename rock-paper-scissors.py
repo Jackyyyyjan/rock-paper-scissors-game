@@ -8,5 +8,3 @@ def get_choices():
     return choices
 
 
-a = get_choices()
-print(a)
